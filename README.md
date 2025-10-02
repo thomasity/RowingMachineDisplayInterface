@@ -31,8 +31,7 @@ This aligns with goals set by the NASA X-Hab Academic Innovation Challenge, prom
 
 ## 📁 Project Structure
 
-- `sketch-code.ino`: Main Arduino sketch handling display and touch input
-- `blissTouchScreen/`: Touch screen interface library
+- `betterTouch.ino`: Main file
 - `*.c`: Custom fonts for text and numeric display
 
 ## 🔧 Dependencies
